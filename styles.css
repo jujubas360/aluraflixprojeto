@@ -53,12 +53,12 @@ img {
     padding-right: 20 px;
 }
 
-.playlist img {
+.categoria img {
     opacity: 0.5;
     height: 200px;
 }
 
-.playlist img:hover {
+.categoria img:hover {
     opacity: 1.0;
     border: 3px solid rgb(255, 173, 0);
 }
