@@ -1,12 +1,12 @@
 body {
     color: aliceblue;
-    background-color: #deaded;
+    background-color: #1c1530;
     margin: 10px;
     font-family: "Notable", sans-serif;
 }
 
 header {
-    border-bottom: solid 2px rgb(68, 95, 118);
+    border-bottom: solid 2px rgb(255, 255, 255);
     padding: 13px;
     font-size: 32px;
     color: aliceblue;
@@ -51,4 +51,14 @@ img {
 .categoria {
     padding-left: 20px;
     padding-right: 20 px;
+}
+
+.playlist img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.playlist img:hover {
+    opacity: 1.0;
+    border: 3px solid rgb(255, 173, 0);
 }
