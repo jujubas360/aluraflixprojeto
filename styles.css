@@ -1,4 +1,9 @@
 body {
-color: aliceblue;
+color: rgb(68, 95, 118);
 background-color: #deaded;
+}
+
+header {
+border: solid 2px rgb(68, 95, 118);
+
 }
