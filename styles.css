@@ -1,9 +1,10 @@
 body {
 color: rgb(68, 95, 118);
 background-color: #deaded;
+margin: 0px;
 }
 
 header {
 border-bottom: solid 2px rgb(68, 95, 118);
-
+padding: 13px;
 }
